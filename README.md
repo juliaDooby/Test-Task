@@ -5,7 +5,7 @@
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
- <div align="center"><img src="https://github.com/juliaDooby/Test-Task/blob/main/ShotTest.JPG" width="45%" height="45%"></img></div>
+ <div align="center"><img src="https://github.com/juliaDooby/Test-Task/blob/main/ShotTest.JPG" width="65%" height="65%"></img></div>
 
 ### Описание:
 Есть множество (массив, где порядок не важен) целых чисел в диапазоне от 1 до 300.
